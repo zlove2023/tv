@@ -2,7 +2,7 @@
 {
 "wallpaper":"",
 "logo":"",
-"spider":"https://gitee.com/zfnote/jar/raw/master/zf2629.jar",
+"spider":"https://github.com/zlove2023/tv/raw/refs/heads/main/jar/zffly.jar",
 
 "lives":[
   
@@ -13,15 +13,15 @@
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
 
 
-{"key":"腾","name":"腾｜视频","type":3,"api":"./js/drpy2.min.js","ext":"./js/腾.js"},
-{"key":"优","name":"优｜视频","type":3,"api":"./js/drpy2.min.js","ext":"./js/优.js"},
-{"key":"芒","name":"芒｜视频","type":3,"api":"./js/drpy2.min.js","ext":"./js/芒.js"},
-{"key":"爱","name":"爱｜视频","type":3,"api":"./js/drpy2.min.js","ext":"./js/爱.js"},
+{"key":"腾","name":"腾｜视频","type":3,"api":"https://raw.githubusercontent.com/zlove2023/tv/refs/heads/main/js/js/drpy2.min.js","ext":"https://raw.githubusercontent.com/zlove2023/tv/refs/heads/main/js/360.js"},
+{"key":"优","name":"优｜视频","type":3,"api":"https://raw.githubusercontent.com/zlove2023/tv/refs/heads/main/js/js/drpy2.min.js","ext":"https://raw.githubusercontent.com/zlove2023/tv/refs/heads/main/js/js/优.js"},
+{"key":"芒","name":"芒｜视频","type":3,"api":"https://raw.githubusercontent.com/zlove2023/tv/refs/heads/main/js/js/drpy2.min.js","ext":"https://raw.githubusercontent.com/zlove2023/tv/refs/heads/main/js/js/芒.js"},
+{"key":"爱","name":"爱｜视频","type":3,"api":"https://raw.githubusercontent.com/zlove2023/tv/refs/heads/main/js/js/drpy2.min.js","ext":"https://raw.githubusercontent.com/zlove2023/tv/refs/heads/main/js/js/爱.js"},
 {"key":"三六零","name":"三六零｜视频","type":3,"api":"csp_SP360"},
 
 
-{"key":"虎","name":"虎牙｜直播","type":3,"api":"./js/drpy2.min.js","ext":"./js/虎.js","style":{"type":"rect","ratio":1.597}},
-{"key":"斗","name":"斗鱼｜直播","type":3,"api":"./js/drpy2.min.js","ext":"./js/斗.js","style":{"type":"rect","ratio":1.597}},
+{"key":"虎","name":"虎牙｜直播","type":3,"api":"https://raw.githubusercontent.com/zlove2023/tv/refs/heads/main/js/js/drpy2.min.js","ext":"https://raw.githubusercontent.com/zlove2023/tv/refs/heads/main/js/js/虎.js","style":{"type":"rect","ratio":1.597}},
+{"key":"斗","name":"斗鱼｜直播","type":3,"api":"https://raw.githubusercontent.com/zlove2023/tv/refs/heads/main/js/js/drpy2.min.js","ext":"https://raw.githubusercontent.com/zlove2023/tv/refs/heads/main/js/js/斗.js","style":{"type":"rect","ratio":1.597}},
 
 
 
