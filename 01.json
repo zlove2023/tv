@@ -2,8 +2,9 @@
 {
 "wallpaper":"",
 "logo":"",
-"spider":"https://github.com/zlove2023/tv/raw/refs/heads/main/jar/zffly.jar",
-
+  
+//"spider":"https://github.com/zlove2023/tv/raw/refs/heads/main/jar/zffly.jar",
+"spider":"https://gitee.com/zfnote/jar/blob/master/zffly.jar",
 "lives":[
   
 {"name":"直播01","type":0,"url":"./live/01.json","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://py.nxog.eu.org/https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png","playerType":2,"timeout":10}
